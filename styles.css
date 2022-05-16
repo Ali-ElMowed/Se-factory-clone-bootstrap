@@ -25,7 +25,7 @@
 }
 
 .navigation {
-    margin-left: auto;
+    margin-right: 100px;
     padding-left: 2.2vw;
     padding-right: 100px;
 }
@@ -43,13 +43,11 @@
 
 }
 
-.apply-btn {
+.nav-toggler, .learn-arr {
     padding: 13px 22px;
     background-color: #00DD00;
     border-radius: 5px;
 
-    text-decoration: none;
-    color: white;
 
 }
 .head-content {
@@ -196,13 +194,16 @@
 }
 
 .learnmore1 {
-    
+    margin-left: 300px;
+    max-width: 400px;
+    max-width: 400px;
     padding: 0px;
     padding-top: 30px;
 }
 
 .learnmore2 {
-    margin-left: 40px;
+    max-width: 400px;
+    margin-left: 250px;
     padding: 0px;
     padding-top: 30px;
 }
@@ -295,4 +296,67 @@
 .start-imgs {
     max-width: 400px;
     
+}
+.section7 {
+    text-align: center;
+    background-color: #E6E6E6;
+    padding-bottom: 50px;
+}
+
+.sec7-txt {
+    line-height: 0.5;
+}
+
+.section7 h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.section7 h2 {
+    font-size: 2.5rem;
+    font-weight: lighter;
+    padding-bottom: 50px;
+}
+
+.subscribe-btn {
+    font-size: 1.1rem;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+.footer {
+   
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: black;
+}
+
+.footer h3 {
+    text-align: center;
+    font-size: 1rem;
+    padding-top: 30px;
+    color: white;
+    font-weight: bolder;
+}
+
+.privacy-herf {
+    text-align: center;
+    padding-top: 20px;
+    color: #00DD00;
+
+}
+
+.icons {
+    padding-left:50px;
+    padding-top: 20px
+}
+
+.icon {
+    font-size: 1.5rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
 }
