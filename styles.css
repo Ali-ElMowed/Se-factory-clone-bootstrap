@@ -251,3 +251,25 @@
     max-width: 850px;
     max-height: 330px;
 }
+.section5 {
+    background-color: #E6E6E6;
+}
+
+.sec-titles {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.media-imgs {
+    padding-bottom: 70px;
+    
+}
+
+.media-imgs-items {
+    margin-top: 70px;
+    max-width: 350px;
+    max-height: 90px;
+}
+
