@@ -88,7 +88,7 @@
     color: white;
     
 }
-/*.stat-det {
+.stat-det {
     padding: 50px 230px;
     margin-bottom: 100px;
 }
@@ -112,5 +112,138 @@
     width: 15px;
     padding-bottom: 2px;
     background-color: black
-}*/
+}
 
+
+.stat-img-para {
+    margin-top: 100px;
+    padding: 0px 150px;
+}
+
+.stat-img {
+    max-width: 633px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+}
+
+.stat-para p,
+.stat-para a {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+}
+
+.stat-para h1 {
+    padding-left: 40px;
+}
+
+.stat-para p {
+    font-size: 1.5rem;
+}
+
+.get {
+    font-weight: 500;
+    font-size: 2.5rem;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+.comp {
+    margin: 0;
+    padding-top: 0px;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.learn-arr {
+    font-size: 1.3rem;
+    color: #00DD00;
+}
+.section3 {
+    padding-top: 0px;
+    margin: 0;
+    background-color: #00DD00;
+}
+
+.section3-title {
+    line-height: 1.2;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.section3-title h1 {
+
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+.dis {
+    font-size: 3rem;
+    font-weight: lighter;
+}
+
+.that {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.offers-imgs {
+    padding-left: 250px;
+    padding-bottom: 100px;
+
+}
+
+.learnmore1 {
+    
+    padding: 0px;
+    padding-top: 30px;
+}
+
+.learnmore2 {
+    margin-left: 40px;
+    padding: 0px;
+    padding-top: 30px;
+}
+
+
+.stat-img-para-1 {
+    margin-top: 100px;
+    padding: 0px 150px;
+}
+.stat-img-1 {
+    max-width: 633px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+}
+
+.join {
+    text-align: center;
+    margin-left: 330px;
+    margin-right: 330px;
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+.join span {
+    font-weight: bold;
+}
+
+.companies {
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
+
+.partner-logos {
+    max-width: 1300px;
+    margin-left: 100px;
+}
+
+.quote {
+    margin-left: 350px;
+    padding-top: 50px;
+    max-width: 850px;
+    max-height: 330px;
+}
