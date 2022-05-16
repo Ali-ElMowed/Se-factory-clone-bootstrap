@@ -43,13 +43,15 @@
 
 }
 
-.nav-toggler, .learn-arr {
-    padding: 13px 22px;
-    background-color: #00DD00;
-    border-radius: 5px;
+.nav-toggler,
+{
+padding: 13px 22px;
+background-color: #00DD00;
+border-radius: 5px;
 
 
 }
+
 .head-content {
     color: white;
     margin-top: 48px;
@@ -82,10 +84,12 @@
 .learn {
     padding: 13px 22px;
 }
-.nav-link{
+
+.nav-link {
     color: white;
-    
+
 }
+
 .stat-det {
     padding: 50px 230px;
     margin-bottom: 100px;
@@ -157,6 +161,7 @@
     font-size: 1.3rem;
     color: #00DD00;
 }
+
 .section3 {
     padding-top: 0px;
     margin: 0;
@@ -213,17 +218,21 @@
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
 .stat-img-1 {
     max-width: 633px;
     padding-bottom: 50px;
-    
+
 }
-.stat-img-para-1 .col-md-6{
+
+.stat-img-para-1 .col-md-6 {
     padding-left: 100px;
 }
-#stat-para{
+
+#stat-para {
     padding-left: 0px;
 }
+
 .join {
     text-align: center;
     margin-left: 330px;
@@ -252,6 +261,7 @@
     max-width: 850px;
     max-height: 330px;
 }
+
 .section5 {
     background-color: #E6E6E6;
 }
@@ -265,7 +275,7 @@
 
 .media-imgs {
     padding-bottom: 70px;
-    
+
 }
 
 .media-imgs-items {
@@ -273,6 +283,7 @@
     max-width: 350px;
     max-height: 90px;
 }
+
 .fund-part-img {
     max-width: 1300px;
     margin-left: 100px;
@@ -295,8 +306,9 @@
 
 .start-imgs {
     max-width: 400px;
-    
+
 }
+
 .section7 {
     text-align: center;
     background-color: #E6E6E6;
@@ -327,8 +339,9 @@
     padding: 15px 30px;
     border-radius: 5px;
 }
+
 .footer {
-   
+
     padding-top: 20px;
     padding-bottom: 40px;
     background-color: black;
@@ -350,7 +363,7 @@
 }
 
 .icons {
-    padding-left:50px;
+    padding-left: 50px;
     padding-top: 20px
 }
 
@@ -359,4 +372,90 @@
     padding-left: 10px;
     padding-right: 10px;
     color: white;
+}
+
+@media (max-width: 641px) {
+    body {
+
+        font-size: 12px;
+    }
+
+    .navbar-nav {
+        display: none;
+    }
+
+    .logo {
+        margin: 0;
+        padding: 20px;
+        max-width: 80px;
+        max-height: 60px;
+    }
+
+    .head-content {
+        padding: 0;
+        padding-left: 20px;
+        padding-bottom: 40px;
+    }
+
+    .head-content p {
+        padding-right: 50px;
+    }
+
+    .fund-part-img {
+        padding: 0;
+        margin: 0;
+        padding-left: 20px;
+        padding-bottom: 30px;
+        max-width: 330px;
+    }
+
+    .partner-logos {
+        margin: 0;
+
+        max-width: 370px;
+    }
+
+    .quote {
+        margin: 0px;
+        padding: 0;
+        padding-top: 20px;
+        max-width: 370px;
+    }
+
+    .stat-img {
+        padding: 0;
+        margin: 0;
+        max-width: 330px;
+    }
+
+    .stat-para {
+        padding: 0;
+        margin: 0;
+    }
+
+    .stat-para h1 {
+        font-size: 1.7rem;
+    }
+    sta
+    .stat-para p {
+        
+        padding-right: 60px;
+        padding-left: 60px;
+        font-size: 1.1rem;
+    }
+
+    .stat-para a {
+        margin: 0;
+        padding-left: 60px;
+        padding-bottom: 10px;
+        font-size: 1.1rem;
+    }
+
+    .learnmore1,
+    .learnmore2 {
+        padding: 0px;
+        padding-left: 130px;
+        margin: 0;
+    }
+
 }
